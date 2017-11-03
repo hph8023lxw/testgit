@@ -1,0 +1,9 @@
+E:\百度云同步盘\yun\用户\云账户商户资料整理\NET\DEMO\yun.test.net\yun.test.net\bin\Debug\yun.test.net.dll
+E:\百度云同步盘\yun\用户\云账户商户资料整理\NET\DEMO\yun.test.net\yun.test.net\bin\Debug\yun.test.net.pdb
+E:\百度云同步盘\yun\用户\云账户商户资料整理\NET\DEMO\yun.test.net\yun.test.net\bin\Debug\BouncyCastle.Crypto.dll
+E:\百度云同步盘\yun\用户\云账户商户资料整理\NET\DEMO\yun.test.net\yun.test.net\bin\Debug\ime.service.client.dll
+E:\百度云同步盘\yun\用户\云账户商户资料整理\NET\DEMO\yun.test.net\yun.test.net\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\百度云同步盘\yun\用户\云账户商户资料整理\NET\DEMO\yun.test.net\yun.test.net\bin\Debug\Newtonsoft.Json.dll
+E:\百度云同步盘\yun\用户\云账户商户资料整理\NET\DEMO\yun.test.net\yun.test.net\obj\Debug\yun.test.net.csprojResolveAssemblyReference.cache
+E:\百度云同步盘\yun\用户\云账户商户资料整理\NET\DEMO\yun.test.net\yun.test.net\obj\Debug\yun.test.net.dll
+E:\百度云同步盘\yun\用户\云账户商户资料整理\NET\DEMO\yun.test.net\yun.test.net\obj\Debug\yun.test.net.pdb
