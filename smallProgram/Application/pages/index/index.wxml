@@ -8,6 +8,10 @@
       <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
     </block>
+    <navigator url="../menu/menu" class="navigator">
+        <view class="navigator-text">跳转测试</view>
+        <view class="navigator-arrow"></view>
+    </navigator>
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
